@@ -1,12 +1,20 @@
-# React + Vite
+# HealWave-Audio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+HealWave-Audio is a modern web app designed to provide personalized audio healing sessions. It uses brain wave data to create an immersive and relaxing experience.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Brain Wave Visualization**: See different brain wave states through interactive cards.
+- **Audio Healing Sessions**: Listen to specially designed audio tracks matched to each brain wave frequency.
+- **Responsive Design**: Works smoothly on all devices.
+- **Easy to Use**: Simple interface to select sessions and control audio playback.
 
-## Expanding the ESLint configuration
+## Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+You can try the live demo at [https://your-domain.com](https://your-domain.com).
+
+## How to Use
+
+- Select one of the brain wave cards to start a healing audio session.
+- Use the volume and playback controls to adjust the sound.
+- Check out the About section to learn more about brain wave therapy.

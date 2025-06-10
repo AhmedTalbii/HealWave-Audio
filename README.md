@@ -11,7 +11,7 @@ HealWave-Audio is a modern web app designed to provide personalized audio healin
 
 ## Demo
 
-You can try the live demo at [https://your-domain.com](https://your-domain.com).
+You can try the live demo at [[https://healwave-audio.netlify.app/](https://healwave-audio.netlify.app/)].
 
 ## How to Use
 
